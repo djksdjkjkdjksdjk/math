@@ -1,7 +1,7 @@
 # streamlit 라이브러리 불러오기
 import streamlit as st      
 
-# 제목 쓰기
+
 st.title('동생아 수학 공부해라')  
 # 부제목 쓰기
 st.subheader('오늘의 주제: 양수 음수 ')
