@@ -25,10 +25,10 @@ st.write('음수?? 어렵지않아!')
 #a = st.number_input('____________', value= ____)  
 
 # 버튼 생성 및 동작
-#if st.button('양수일까 ____일까?'):
+#if st.button('양수일까 음수일까?')
 #       if a > 0:
-#              st.write('________')
-#       elif a < 0:
-#              st.write('________')
+#              st.write('양수 ')
+#       elif a < 0:음수
+#              st.write('음수')
 #       else:
-#              st.write('________')
+#              st.write('0')
